@@ -1,0 +1,11 @@
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\M101NDotNetHomeworks.Models.dll
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\M101NDotNetHomeworks.Models.pdb
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\obj\Debug\M101NDotNetHomeworks.Models.dll
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\obj\Debug\M101NDotNetHomeworks.Models.pdb
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\MongoDB.Bson.dll
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\MongoDB.Driver.Core.dll
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\MongoDB.Driver.dll
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\MongoDB.Bson.xml
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\MongoDB.Driver.xml
+C:\KAREN_INFO\MANUALES\MONGODB\MongoDB_M101N_NET_Training\M101NDotNetHomeworks.Models\bin\Debug\MongoDB.Driver.Core.xml
